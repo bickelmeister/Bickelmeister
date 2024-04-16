@@ -29,3 +29,6 @@ Coding my projects with
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
+
+My Visual Studio Code Extension List 
+* [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
