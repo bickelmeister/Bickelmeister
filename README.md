@@ -31,4 +31,13 @@ Coding my projects with
 ---
 
 My Visual Studio Code Extension List 
-* [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+* [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) - Dare Contrast
+* GitHub Copilot / GitHub Copilot Chat
+* GitHub Theme
+* Live Share
+* Prettier - Code Formatter
+* [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+* [Snippet Creator](https://marketplace.visualstudio.com/items?itemName=wware.snippet-creator)
+* Tailwind CSS IntelliSense
+* vscode-pdf
+* WSL
