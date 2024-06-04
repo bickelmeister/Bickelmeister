@@ -6,7 +6,6 @@ I'm Elmar, Software Engineer from <img src= "https://cdn-icons-png.flaticon.com/
 Coding my projects with  
 ![windows11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![macbook](https://img.shields.io/badge/MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)
 ![bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)
 ![intellij](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
