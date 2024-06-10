@@ -2,6 +2,7 @@
 
 Welcome to my GitHub Profile!  
 I'm Elmar, Software Engineer from <img src= "https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> Ulm, Germany.
+Currently working @jobrad-gmbh as a Frontend Engineer. 
 
 Coding my projects with  
 ![windows11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=Windows&logoColor=white)
