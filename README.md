@@ -5,13 +5,10 @@ I'm Elmar, Software Engineer from <img src= "https://cdn-icons-png.flaticon.com/
 Currently working @jobrad-gmbh as a Frontend Engineer. 
 
 Coding my projects with  
-![windows11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![macbook](https://img.shields.io/badge/MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)
-![bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)
 ![intellij](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![windows terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white)
 ![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
@@ -29,15 +26,3 @@ Coding my projects with
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
-
-My Visual Studio Code Extension List 
-* [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) - Dare Contrast
-* GitHub Copilot / GitHub Copilot Chat
-* GitHub Theme
-* Live Share
-* Prettier - Code Formatter
-* [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-* [Snippet Creator](https://marketplace.visualstudio.com/items?itemName=wware.snippet-creator)
-* Tailwind CSS IntelliSense
-* vscode-pdf
-* WSL
